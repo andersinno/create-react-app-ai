@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts-ts",
+  "name": "react-scripts-ts-ai",
   "version": "2.7.0",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "wmonk/create-react-app",
+  "repository": "andersinno/create-react-app-ai",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/wmonk/create-react-app/issues"
+    "url": "https://github.com/andersinno/create-react-app-ai/issues"
   },
   "files": [
     "bin",
@@ -31,11 +31,13 @@
     "fs-extra": "3.0.1",
     "html-webpack-plugin": "2.29.0",
     "jest": "20.0.4",
+    "node-sass": "^4.5.3",
     "object-assign": "4.1.1",
     "postcss-flexbugs-fixes": "3.2.0",
     "postcss-loader": "2.0.6",
     "promise": "8.0.1",
     "react-dev-utils": "^4.0.1",
+    "sass-loader": "^6.0.6",
     "style-loader": "0.18.2",
     "ts-jest": "^20.0.7",
     "ts-loader": "^2.2.1",
