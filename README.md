@@ -1,4 +1,6 @@
-# `react-scripts-ts` [![npm version](https://badge.fury.io/js/react-scripts-ts.svg)](https://badge.fury.io/js/react-scripts-ts) [![Build Status](https://travis-ci.org/wmonk/create-react-app-typescript.svg?branch=master)](https://travis-ci.org/wmonk/create-react-app-typescript)
+# `react-scripts-ts-ai` [![Build Status](https://travis-ci.org/andersinno/create-react-app-ai.svg?branch=master)](https://travis-ci.org/andersinno/create-react-app-ai)
+
+#### This is a fork of [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript)
 
 Create React apps (with Typescript) with no build configuration.
 
@@ -9,7 +11,7 @@ _Do you know react and want to try out typescript? Or do you know typescript and
 ```sh
 npm install -g create-react-app
 
-create-react-app my-app --scripts-version=react-scripts-ts
+create-react-app my-app --scripts-version=react-scripts-ts-ai
 cd my-app/
 npm start
 ```
