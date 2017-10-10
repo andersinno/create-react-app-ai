@@ -211,7 +211,6 @@ module.exports = {
           },
           {
             test: /\.(sass|scss)$/,
-            fallback: require.resolve('style-loader'),
             use: [
               require.resolve('style-loader'),
               {
