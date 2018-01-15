@@ -32,6 +32,9 @@ const argv = process.argv.slice(2);
 if (!process.env.CI && argv.indexOf('--coverage') < 0) {
   argv.push('--watch');
 }
+else {
+  argv.push('--maxWorkers=4');
+}
 
 // @remove-on-eject-begin
 // This is not necessary after eject because we embed config into package.json.
