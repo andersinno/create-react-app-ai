@@ -1,6 +1,8 @@
 React Scripts TS AI Change Log
 ==============================
 
+* Webpack config: Fix CSS source maps option of postcss-loader
+
 2.8.0 / 2018-01-25 13:05 +0200
 ------------------------------
 
