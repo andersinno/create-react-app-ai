@@ -1,6 +1,13 @@
 React Scripts TS AI Change Log
 ==============================
 
+2.8.2 / 2018-01-29 10:10 +0200
+------------------------------
+
+* Sync with react-scripts-ts master commit 7c0032b:
+
+   - Remove unnecessary js(x) files from template
+
 2.8.1 / 2018-01-29 10:00 +0200
 ------------------------------
 
