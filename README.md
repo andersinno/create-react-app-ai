@@ -1,5 +1,11 @@
 # `react-scripts-ts-ai` [![Build Status](https://travis-ci.org/andersinno/create-react-app-ai.svg?branch=master)](https://travis-ci.org/andersinno/create-react-app-ai)
 
+-----
+
+**NOTE:** This package is deprecated in favor of create-react-app v2.1 which comes with built in TypeScript and SASS support.
+
+-----
+
 #### This is a fork of [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript)
 
 Create React apps (with Typescript) with no build configuration.
